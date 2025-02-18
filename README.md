@@ -6,7 +6,7 @@
 - 😄 Pronouns: ... HE
 - ⚡ Fun fact: ... I like to learn new dance moves
 
-<!---
+Today, I will focus on skill development and fundamental languages for future projects <!---
 BC1979/BC1979 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
